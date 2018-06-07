@@ -1,0 +1,40 @@
+C:\Users\LED-COM\source\repos\TheServer\TheServer\bin\Debug\TheServer.exe.config
+C:\Users\LED-COM\source\repos\TheServer\TheServer\bin\Debug\TheServer.exe
+C:\Users\LED-COM\source\repos\TheServer\TheServer\bin\Debug\TheServer.pdb
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.Properties.Resources.resources
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.csproj.GenerateResource.Cache
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.exe
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.pdb
+C:\Users\LED-COM\source\repos\TheServer\TheServer\obj\Debug\TheServer.Server.resources
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\bin\Debug\TheServer.exe.config
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\bin\Debug\TheServer.exe
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\bin\Debug\TheServer.pdb
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.Server.resources
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.exe
+C:\Users\LED-COM\Desktop\Faza II\TheServer\TheServer\obj\Debug\TheServer.pdb
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\bin\Debug\TheServer.exe.config
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\bin\Debug\TheServer.exe
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\bin\Debug\TheServer.pdb
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.Server.resources
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.exe
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheServer\TheServer\obj\Debug\TheServer.pdb
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\bin\Debug\TheServer.exe.config
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\bin\Debug\TheServer.exe
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\bin\Debug\TheServer.pdb
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.Server.resources
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.exe
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheServer\TheServer\obj\Debug\TheServer.pdb

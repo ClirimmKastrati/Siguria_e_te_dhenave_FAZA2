@@ -1,0 +1,20 @@
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\bin\Debug\TheClient2.exe.config
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\bin\Debug\TheClient2.exe
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\bin\Debug\TheClient2.pdb
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.Form1.resources
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.Properties.Resources.resources
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.csproj.GenerateResource.Cache
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.exe
+C:\Users\LED-COM\source\repos\TheClient2\TheClient2\obj\Debug\TheClient2.pdb
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\bin\Debug\TheClient2.exe.config
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\bin\Debug\TheClient2.exe
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\bin\Debug\TheClient2.pdb
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.Form1.resources
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.exe
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient2\TheClient2\obj\Debug\TheClient2.pdb

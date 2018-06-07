@@ -1,0 +1,50 @@
+C:\Users\LED-COM\source\repos\TheClient\TheClient\bin\Debug\TheClient.exe.config
+C:\Users\LED-COM\source\repos\TheClient\TheClient\bin\Debug\TheClient.exe
+C:\Users\LED-COM\source\repos\TheClient\TheClient\bin\Debug\TheClient.pdb
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.Properties.Resources.resources
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.csproj.GenerateResource.Cache
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.exe
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.pdb
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.Client.resources
+C:\Users\LED-COM\source\repos\TheClient\TheClient\obj\Debug\TheClient.csprojResolveAssemblyReference.cache
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\bin\Debug\TheClient.exe.config
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\bin\Debug\TheClient.exe
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\bin\Debug\TheClient.pdb
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.csprojResolveAssemblyReference.cache
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.Client.resources
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.Properties.Resources.resources
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.csproj.GenerateResource.cache
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.csproj.CoreCompileInputs.cache
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.exe
+C:\Users\StarTech\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.pdb
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\bin\Debug\TheClient.exe.config
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\bin\Debug\TheClient.exe
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\bin\Debug\TheClient.pdb
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.Client.resources
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.exe
+C:\Users\LED-COM\Desktop\Faza II\TheClient\TheClient\obj\Debug\TheClient.pdb
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\bin\Debug\TheClient.exe.config
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\bin\Debug\TheClient.exe
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\bin\Debug\TheClient.pdb
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.Client.resources
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.exe
+C:\Users\LED-COM\Desktop\Faza II-Siguri\TheClient\TheClient\obj\Debug\TheClient.pdb
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\bin\Debug\TheClient.exe.config
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\bin\Debug\TheClient.exe
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\bin\Debug\TheClient.pdb
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.csprojResolveAssemblyReference.cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.Client.resources
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.exe
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza2\Faza II\TheClient\TheClient\obj\Debug\TheClient.pdb
